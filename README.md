@@ -1,39 +1,120 @@
+# Hi — I'm Ashok 👋
 
-# Hello there! 👋
+I'm a pragmatic full‑stack engineer who designs and ships end‑to‑end products: polished TypeScript frontends, resilient Python/Django backends, cross‑platform mobile apps with Flutter, and performance‑sensitive systems in C/C++. I enjoy turning complex domains (finance, UAV design, CFD, realtime chat) into usable, dependable software and tooling.
 
+---
 
-### Bio:
+## What I build
+- Interactive, production‑ready web frontends with TypeScript that prioritize UX, accessibility and performance.
+- Backend services and real‑time APIs with Python and Django that are maintainable and testable.
+- Cross‑platform mobile apps using Flutter/Dart for fast, native‑feeling experiences.
+- High‑performance systems and simulation code in C/C++ for compute- or latency-critical problems.
+- Networking and developer tooling for diagnostics and automation (port scanners, keyloggers, and more).
 
-Ashok Sanaka is a software engineer with a passion for c,c++ and Python.
-            
+---
 
-### Streetcred:
-
-<a href="https://www.tublian.com/profile/Ashoksanaka?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Ashoksanaka?type=without_score"></a>
-
-### My Stack:
-
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Java"/>
-
-### 
-
-### 
-
-### Links:
-
-### <a href="www.linkedin.com/in/ashok-sanaka-146681278">linkedin</a> | <a href="https://www.github.com/Ashoksanaka">github</a> | <a href="">linkedin</a>
-
-## 👇 Few things about me
-
-
-<div>
-
-            
+## Tech & tools
+- Languages: TypeScript, JavaScript, Python, Dart, C, C++
+- Backend: Django, REST & realtime patterns
+- Frontend: Modern TypeScript toolchains, component-driven UI
+- Mobile: Flutter (Dart) for cross-platform apps
+- DevOps: Docker, shell scripting, CI workflows
+- Other: Numerical/simulation work (CFD), networking utilities, systems programming
+<br><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+---
 
+## Notable projects
+- [Trade_Quest](https://github.com/Ashoksanaka/Trade_Quest) — A TypeScript‑centric trading/finance UI focused on interactive visualizations and workflow UX.
+- [SoftFolio](https://github.com/Ashoksanaka/SoftFolio) — A polished TypeScript frontend project showcasing UI/UX and frontend engineering patterns.
+- [Just-Ease-Frontend](https://github.com/Ashoksanaka/Just-Ease-Frontend) — Frontend for an app emphasizing clean, maintainable JavaScript interfaces.
+- [just-ease-backend](https://github.com/Ashoksanaka/just-ease-backend) — Backend services in Python that power application logic and data flows.
+- [ChatApp-django](https://github.com/Ashoksanaka/ChatApp-django) — Django backend for real‑time chat features and API handling.
+- [ChatApp-flutter](https://github.com/Ashoksanaka/ChatApp-flutter) — Cross‑platform chat client built with Flutter/Dart.
+- [UAV-Design-Studio](https://github.com/Ashoksanaka/UAV-Design-Studio) — A TypeScript project for UAV design workflows and visualization.
+- [CFD_Lab](https://github.com/Ashoksanaka/CFD_Lab) — High‑performance C++ code for computational fluid dynamics and simulation experiments.
+- [PortScanner](https://github.com/Ashoksanaka/PortScanner) — Lightweight C tool for network scanning and diagnostics.
+- [Keylogger](https://github.com/Ashoksanaka/Keylogger) — A Python project exploring input capture and automation (educational / testing contexts).
 
+---
 
-<p align="center">
-<i>Generated by <a href="https://www.tublian.com/"><img src="https://tublian-newsletter-assets.s3.amazonaws.com/just-logo.png" width="25" style="vertical-align: middle"/></i>
-</p>
+## How I work
+- Product‑first: I start with user flows and shape the technical design around delivering value quickly and continuously.
+- Iterative & pragmatic: Small, well‑tested increments and frequent shipping to get feedback early.
+- Maintainability: Clear code structure, tests, and documentation so projects can scale and onboard contributors.
+- Performance‑aware: Choose low‑level languages (C/C++) or optimized algorithms where measurable gains matter.
+
+---
+
+## What I’m learning / exploring
+- Advanced realtime systems and optimization for low‑latency data flows
+- More cross‑platform native features in Flutter
+- Domain‑specific tooling for simulation and data visualization
+
+---
+
+## Want to collaborate or connect?
+I’m open to collaborating on full‑stack projects, embedded/system tooling, and simulation work. You can reach me via GitHub — open an issue on a repo, or send a message through my profile.
+
+Thanks for stopping by — I build practical software that ships and scales. If a project of mine looks interesting, dive in and say hi!
