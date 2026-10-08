@@ -85,20 +85,6 @@ I'm a pragmatic full‑stack engineer who designs and ships end‑to‑end produ
 
 ---
 
-## Notable projects
-- [Trade_Quest](https://github.com/Ashoksanaka/Trade_Quest) — A TypeScript‑centric trading/finance UI focused on interactive visualizations and workflow UX.
-- [SoftFolio](https://github.com/Ashoksanaka/SoftFolio) — A polished TypeScript frontend project showcasing UI/UX and frontend engineering patterns.
-- [Just-Ease-Frontend](https://github.com/Ashoksanaka/Just-Ease-Frontend) — Frontend for an app emphasizing clean, maintainable JavaScript interfaces.
-- [just-ease-backend](https://github.com/Ashoksanaka/just-ease-backend) — Backend services in Python that power application logic and data flows.
-- [ChatApp-django](https://github.com/Ashoksanaka/ChatApp-django) — Django backend for real‑time chat features and API handling.
-- [ChatApp-flutter](https://github.com/Ashoksanaka/ChatApp-flutter) — Cross‑platform chat client built with Flutter/Dart.
-- [UAV-Design-Studio](https://github.com/Ashoksanaka/UAV-Design-Studio) — A TypeScript project for UAV design workflows and visualization.
-- [CFD_Lab](https://github.com/Ashoksanaka/CFD_Lab) — High‑performance C++ code for computational fluid dynamics and simulation experiments.
-- [PortScanner](https://github.com/Ashoksanaka/PortScanner) — Lightweight C tool for network scanning and diagnostics.
-- [Keylogger](https://github.com/Ashoksanaka/Keylogger) — A Python project exploring input capture and automation (educational / testing contexts).
-
----
-
 ## How I work
 - Product‑first: I start with user flows and shape the technical design around delivering value quickly and continuously.
 - Iterative & pragmatic: Small, well‑tested increments and frequent shipping to get feedback early.
